@@ -1,1 +1,1 @@
-python namaztimesms.py
+worker: python namaztimesms.py
